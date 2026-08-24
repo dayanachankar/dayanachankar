@@ -13,12 +13,51 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-<p align="left">
-  <a href="mailto:daya9112@gmail.com">
-    <img src="https://img.shields.io/badge/Email-daya9112%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+
+---
+## 👩‍💻 About Me
+
+I'm an **MSc Statistics graduate** currently working at **Accenture** as a **Packaged Application Development Associate**.
+
+I'm passionate about **data analysis, visualization, and finding meaningful insights from data**. I enjoy working with SQL, Power BI, Python, and Excel to clean, analyze, visualize, and communicate data effectively.
+
+🎯 Currently looking for opportunities in **Data Analytics | Business Intelligence | Reporting**
+
+📫 Reach out to me : daya9112@gmail.com
+
 ---
 
+## 🛠️ Skills
 
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" height="45" alt="SQL Server"/>
+</p>
+
+**SQL** • **Power BI** • **Python** • **Pandas** • **NumPy** • **Advanced Excel**  
+**DAX** • **Data Visualization** • **Statistics** • **Exploratory Data Analysis**
+
+---
+
+## 🎓 Education
+
+**MSc in Statistics**  
+MIT World Peace University, Pune
+
+**BSc in Statistics**  
+Abasaheb Garware College, Pune
+
+---
+
+## 🚀 Currently Learning
+
+- 📊 Advanced Power BI & DAX
+- 🗄️ SQL for Data Analytics
+- 🐍 Python for Data Analysis
+- 📈 Advanced Excel
 
 ---
 
