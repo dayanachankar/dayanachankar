@@ -1,5 +1,5 @@
-                                                                              # Hi, I'm Daya  👋
-
+# Hi, I'm Daya  👋
+---
 ### Data Analyst | SQL | Power BI | Python | Excel
 
 I'm a Statistics postgraduate currently working as a **Packaged Application Development Associate at Accenture**.
