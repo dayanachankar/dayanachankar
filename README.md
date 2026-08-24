@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Daya Nachankar</h1>
-<h3 align="center">Aspiring Data Analyst | SQL | Power BI | Python | Excel 📊</h3>
+<h3 align="center">Aspiring Data Analyst | Turning Data into Insights 📊</h3>
 
 <br>
 
