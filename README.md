@@ -13,7 +13,8 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-
+<img src="https://cdn.simpleicons.org/powerbi" width="45" height="45" alt="Power BI"/>
+<img src="https://cdn.simpleicons.org/microsoftexcel" width="45" height="45" alt="Excel"/>
 ---
 ## 👩‍💻 About Me
 
