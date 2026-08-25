@@ -2,8 +2,9 @@
   👋 Hi, I'm Daya Nachankar
 </h1>
 
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst+%7C+Turning+Data+into+Insights+%F0%9F%93%8A" alt="Typing SVG">
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=700&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=900&lines=Aspiring+Data+Analyst+%7C+Turning+Data+into+Insights+%F0%9F%93%8A">
+</p>
 <br>
 
 <h3 align="left">Connect with me:</h3>
