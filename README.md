@@ -32,7 +32,7 @@ I'm passionate about **data analysis, visualization, and finding meaningful insi
   <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
-  <img src="https://img.icons8.com/color/96/microsoft-power-bi.png" width="50" height="50" alt="Power BI"/>
+  <img src="https://cdn.simpleicons.org/powerbi" width="50" height="50" alt="Power BI"/>
   <img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" width="50" height="50" alt="Excel"/>
 </p>
  
