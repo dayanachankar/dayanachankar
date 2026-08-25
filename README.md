@@ -2,11 +2,9 @@
   👋 Hi, I'm Daya Nachankar
 </h1>
 
-<h3 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst+%7C+Turning+Data+into+Insights;SQL+%7C+Power+BI+%7C+Python+%7C+Excel;Building+Data-Driven+Projects;Transforming+Data+into+Business+Insights" alt="Typing SVG" />
-  </a>
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Daya+Nachankar;Aspiring+Data+Analyst+%7C+Turning+Data+into+Insights" alt="Typing SVG" />
+</p>
 
 <br>
 
