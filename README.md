@@ -21,7 +21,9 @@ I'm an **MSc Statistics graduate** currently working at **Accenture** as a **Pac
 
 I'm passionate about **data analysis, visualization, and finding meaningful insights from data**. I enjoy working with SQL, Power BI, Python, and Excel to clean, analyze, visualize, and communicate data effectively.
 
-🎯 Currently looking for opportunities in **Data Analytics | Business Intelligence | Reporting**
+🎯 Currently looking for opportunities in **Data Analytics | Business Analyst | Reporting | Power BI Developer**  
+ Any role where I can work with data and drive meaningful insights
+ I am looking for a team where data drives decisions and where I can grow, contribute, and keep learning every day.
 
 📫 Reach out to me : daya9112@gmail.com
 
